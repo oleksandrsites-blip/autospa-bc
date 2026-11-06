@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://detailingrv.pages.dev/sitemap.xml
